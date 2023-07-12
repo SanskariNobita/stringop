@@ -7,7 +7,7 @@
 
 - pkg install git python -y
 
--git clone https://github.com/SanskariNobita/stringop string
+- git clone https://github.com/SanskariNobita/stringop string
 
 - cd string
 
