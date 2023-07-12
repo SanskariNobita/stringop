@@ -3,14 +3,14 @@
 ### All Commands For Termux
 
 
-- pkg update -y
+- ```pkg update -y```
 
-- pkg install git python -y
+- ```pkg install git python -y```
 
-- git clone https://github.com/SanskariNobita/stringop string
+- ```git clone https://github.com/SanskariNobita/stringop string```
 
-- cd string
+- ```cd string```
 
-- pip install -r Installer
+- ```pip install -r Installer```
 
--python Nobita.py
+- ```python Nobita.py```
