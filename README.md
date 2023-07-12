@@ -2,8 +2,6 @@
 
 ### All Commands For Termux
 
-#NOBITA_XD
-
 -
 pkg update -y
 -
